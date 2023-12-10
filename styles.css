@@ -20,12 +20,16 @@ body {
     left: 9%;
     transform: translate(-5%, -60%);
     background-color: rgba(0, 0, 0, 0.5);
-    padding: 0px;
     border-radius: 5px;
     text-align: center;
     color: white;
     backdrop-filter: blur(10px);
     font-size: 10px;
+}
+
+.header-text {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .title-bar {
@@ -38,6 +42,11 @@ body {
 .content {
     padding: 15px;
     color: #5b6a6a;
+  /*  overflow: hidden;*/
+}
+
+.content-text {
+    overflow: hidden;
 }
 
 .show-more-container {
