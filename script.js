@@ -1,5 +1,5 @@
-
 /* Second Approach */
+
 
 function showMore() {
     var mainContent = document.getElementById('mainContent');
