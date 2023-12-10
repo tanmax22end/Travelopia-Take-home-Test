@@ -6,7 +6,7 @@ Online assessment for Associate Product Engineer, Travelopia
 
 This repository contains two different approaches to implement a "Show More" content toggle on a website using JavaScript.
 
-## Approach 1 (dynamicScript.js)
+## Approach 1 (dynamicScript.js)   https://travelopia-take-home-test-second-approach.vercel.app/
 
 This approach aims to improve the user experience by displaying a concise summary of the content initially and providing the option to expand it if desired. This can be helpful for long articles or descriptions where showing everything at once might be overwhelming.
 
@@ -25,7 +25,7 @@ This approach aims to improve the user experience by displaying a concise summar
 This approach can be a good balance between improving user experience and maintaining optimal performance. However, it's crucial to consider the specific context and content size when deciding whether to implement this functionality.
 
 
-## Approach 2 (script.js)
+## Approach 2 (script.js)   https://travelopia-take-home-test-three.vercel.app/
 
 This approach uses a straightforward method to toggle between showing and hiding content by checking the `display` property. It also displays truncated content initially based on a character limit.
 
