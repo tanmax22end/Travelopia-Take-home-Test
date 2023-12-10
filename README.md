@@ -48,7 +48,7 @@ This approach offers a simple and efficient way to manage content length and imp
 
 
 
-## Comparison between the two -:
+## Comparison between the two approaches -:
 
 
 | Feature | Approach 1 (Dynamic Height) | Approach 2 (Toggle Visibility) |
